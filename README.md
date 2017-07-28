@@ -1,6 +1,6 @@
 # Community model examples
 # Part I - Basic model
-Based on work from *Zipkin E.F., Royle J.A., Dawson D.K., and Bates S. 2010. Multi-species occurrence models to evaluate the effects of conservation and management actions. Biological Conservation. 143: 479-484.*
+Based on work from: *Zipkin E.F., Royle J.A., Dawson D.K., and Bates S. 2010. Multi-species occurrence models to evaluate the effects of conservation and management actions. Biological Conservation. 143: 479-484.*
 
 ## **Description:**
 The hierarchical community model is a multi-species approach to obtain community information, such as species or assemblage richness, by estimating individual species occurrence probabilities. The fundamental idea behind the community approach is that collective information on all observed species can inform probabilities of detection and occurrence for both observed and unobserved species, even those that are rare or elusive. This results in an improved composite analysis of the community and increased precision in species specific estimates of occurrence. The hierarchical model can be specified to incorporate habitat and sampling effects that influence occurrence and detection. Thus the community approach can provide the best possible estimates of species richness and other metrics of interest across a heterogeneous landscape, while accounting for variation in occurrence and detection among species.
